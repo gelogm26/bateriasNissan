@@ -27,7 +27,7 @@
             </div>
 
             <div class="d-flex align-items-center ms-auto mt-2 mt-lg-0">
-                <a href="app/backend/configuracion/configuracion.php" class="btn btn-outline-secondary" style="border: none; margin-bottom: 12px;">
+                <a href="app/backend/configuracion/partials/login.php" class="btn btn-outline-secondary" style="border: none; margin-bottom: 12px;">
                     <i class="fa-solid fa-gear" style="color: #ffffff;"></i>
                 </a>
             </div>
