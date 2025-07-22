@@ -27,9 +27,9 @@
             </div>
 
             <div class="d-flex align-items-center ms-auto mt-2 mt-lg-0">
-                <button class="btn btn-outline-secondary" style="border: none;">
+                <a href="app/backend/configuracion/configuracion.php" class="btn btn-outline-secondary" style="border: none; margin-bottom: 12px;">
                     <i class="fa-solid fa-gear" style="color: #ffffff;"></i>
-                </button>
+                </a>
             </div>
         </div>
     </nav>
